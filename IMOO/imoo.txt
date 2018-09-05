@@ -1,0 +1,2500 @@
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+Lista de Consultas:
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+Lista de Consultas:
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+Lista de Consultas:
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+Lista de Consultas:
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:11
+Consultas: 4
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:11
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:57:57
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:11
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:11
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 10:58:01
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 6
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:17
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:17
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:17
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+E-mail: anastacia@gmail.com
+Nome: Anastácia Baptista
+Password: anastacia
+Morada: Rua de Mota Pinto
+Data de Nascimento: 1985/02/07
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 6
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:02:01
+Consultas: 2
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:17
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:17
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+18
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 11:02:10
+Consultas: 1
+Imovel : Rua: Escadas do Codeçal
+Estado: Vende-se
+ID: 18
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:40
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 11:02:01
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+9
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 11:02:10
+Consultas: 2
+Imovel : Rua: Rua do Rosário
+Estado: Vende-se
+ID: 9
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+E-mail: anastacia@gmail.com
+Nome: Anastácia Baptista
+Password: anastacia
+Morada: Rua de Mota Pinto
+Data de Nascimento: 1985/02/07
+E-mail: jose@gmail.com
+Nome: José Gomes
+Password: jose
+Morada: Rua das Taipas
+Data de Nascimento: 1979/02/01
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 8
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+18
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Escadas do Codeçal
+Estado: Vende-se
+ID: 18
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+
+------
+ID: 
+19
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Carvalhido
+Estado: Vende-se
+ID: 19
+Preço Pedido: 500
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+6
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua de José Falcão
+Estado: Vende-se
+ID: 6
+Preço Pedido: 490
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 11:02:01
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+9
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Rosário
+Estado: Vende-se
+ID: 9
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+E-mail: anastacia@gmail.com
+Nome: Anastácia Baptista
+Password: anastacia
+Morada: Rua de Mota Pinto
+Data de Nascimento: 1985/02/07
+E-mail: jose@gmail.com
+Nome: José Gomes
+Password: jose
+Morada: Rua das Taipas
+Data de Nascimento: 1979/02/01
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 8
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+18
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Escadas do Codeçal
+Estado: Vende-se
+ID: 18
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+
+------
+ID: 
+19
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Carvalhido
+Estado: Vende-se
+ID: 19
+Preço Pedido: 500
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+6
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua de José Falcão
+Estado: Vende-se
+ID: 6
+Preço Pedido: 490
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 11:02:01
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+9
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Rosário
+Estado: Vende-se
+ID: 9
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+E-mail: anastacia@gmail.com
+Nome: Anastácia Baptista
+Password: anastacia
+Morada: Rua de Mota Pinto
+Data de Nascimento: 1985/02/07
+E-mail: jose@gmail.com
+Nome: José Gomes
+Password: jose
+Morada: Rua das Taipas
+Data de Nascimento: 1979/02/01
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 8
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+18
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Escadas do Codeçal
+Estado: Vende-se
+ID: 18
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+
+------
+ID: 
+19
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Carvalhido
+Estado: Vende-se
+ID: 19
+Preço Pedido: 500
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 2
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+6
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua de José Falcão
+Estado: Vende-se
+ID: 6
+Preço Pedido: 490
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:09
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+9
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:09
+Consultas: 1
+Imovel : Rua: Rua do Rosário
+Estado: Vende-se
+ID: 9
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+>>>> Imoobiliaria <<<<
+Lista de Compradores:
+E-mail: marco@gmail.com
+Nome: Marco Mendes
+Password: marco
+Morada: Rua dos Mercadores
+Data de Nascimento: 1990/12/28
+E-mail: sonia@gmail.com
+Nome: Sónia Salvador
+Password: sonia
+Morada: Rua de Cândido dos Reis
+Data de Nascimento: 1967/08/27
+E-mail: anastacia@gmail.com
+Nome: Anastácia Baptista
+Password: anastacia
+Morada: Rua de Mota Pinto
+Data de Nascimento: 1985/02/07
+E-mail: jose@gmail.com
+Nome: José Gomes
+Password: jose
+Morada: Rua das Taipas
+Data de Nascimento: 1979/02/01
+Lista de Vendedores:
+E-mail: vasco@gmail.com
+Nome: Vasco Gama
+Password: vasco
+Morada: Rua da Bainharia
+Data de Nascimento: 1979/06/06
+E-mail: armando@gmail.com
+Nome: Armando Faria
+Password: armando
+Morada: Rua Escura
+Data de Nascimento: 1976/03/23
+E-mail: helena@gmail.com
+Nome: Helena Dias
+Password: helena
+Morada: Rua de Sant'Ana
+Data de Nascimento: 1990/07/01
+E-mail: diana@gmail.com
+Nome: Diana Gonçalves
+Password: diana
+Morada: Rua do Loureiro
+Data de Nascimento: 1979/06/12
+E-mail: guilherme@gmail.com
+Nome: Guilherme Silva
+Password: guilherme
+Morada: Rua dos Caldeireiros
+Data de Nascimento: 1967/09/12
+Lista de Consultas:
+
+------
+ID: 
+0
+Consulta: 
+Email : marco@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 8
+Imovel : Rua: Rua de Belomonte
+Estado: Vende-se
+ID: 0
+Preço Pedido: 345
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+1
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Breiner
+Estado: Vende-se
+ID: 1
+Preço Pedido: 450
+Preço Mínimo: 440
+
+
+------
+
+------
+ID: 
+10
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 1
+Imovel : Rua: Rua de S.Bento da Vitória
+Estado: Vende-se
+ID: 10
+Preço Pedido: 230
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+11
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de 9 de Julho
+Estado: Vende-se
+ID: 11
+Preço Pedido: 400
+Preço Mínimo: 390
+
+
+------
+
+------
+ID: 
+12
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de S.Miguel
+Estado: Vende-se
+ID: 12
+Preço Pedido: 398
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+13
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Avenida da França
+Estado: Vende-se
+ID: 13
+Preço Pedido: 300
+Preço Mínimo: 100
+
+
+------
+
+------
+ID: 
+14
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Caldeireiros
+Estado: Vende-se
+ID: 14
+Preço Pedido: 600
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+15
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:12
+Consultas: 1
+Imovel : Rua: Rua dos Mercadores
+Estado: Vende-se
+ID: 15
+Preço Pedido: 500
+Preço Mínimo: 450
+
+
+------
+
+------
+ID: 
+16
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua dos Clérigos
+Estado: Vende-se
+ID: 16
+Preço Pedido: 590
+Preço Mínimo: 500
+
+
+------
+
+------
+ID: 
+17
+Consulta: 
+Email : sonia@gmail.com
+Data : 2016/05/20 11:00:34
+Consultas: 1
+Imovel : Rua: Rua das Carmelitas
+Estado: Vende-se
+ID: 17
+Preço Pedido: 1500
+Preço Mínimo: 1250
+
+
+------
+
+------
+ID: 
+18
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Escadas do Codeçal
+Estado: Vende-se
+ID: 18
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+
+------
+ID: 
+19
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua do Carvalhido
+Estado: Vende-se
+ID: 19
+Preço Pedido: 500
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+2
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua do Almada
+Estado: Vende-se
+ID: 2
+Preço Pedido: 300
+Preço Mínimo: 270
+
+
+------
+
+------
+ID: 
+3
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 2
+Imovel : Rua: Rua das Flores
+Estado: Vende-se
+ID: 3
+Preço Pedido: 340
+Preço Mínimo: 200
+
+
+------
+
+------
+ID: 
+4
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Passos Manuel
+Estado: Vende-se
+ID: 4
+Preço Pedido: 600
+Preço Mínimo: 560
+
+
+------
+
+------
+ID: 
+5
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:18
+Consultas: 1
+Imovel : Rua: Rua de D.Hugo
+Estado: Vende-se
+ID: 5
+Preço Pedido: 400
+Preço Mínimo: 360
+
+
+------
+
+------
+ID: 
+6
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:33
+Consultas: 1
+Imovel : Rua: Rua de José Falcão
+Estado: Vende-se
+ID: 6
+Preço Pedido: 490
+Preço Mínimo: 300
+
+
+------
+
+------
+ID: 
+7
+Consulta: 
+Email : jose@gmail.com
+Data : 2016/05/20 11:03:23
+Consultas: 1
+Imovel : Rua: Rua de Sá da Bandeira
+Estado: Vende-se
+ID: 7
+Preço Pedido: 500
+Preço Mínimo: 490
+
+
+------
+
+------
+ID: 
+8
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:09
+Consultas: 1
+Imovel : Rua: Alameda das Fontainhas
+Estado: Vende-se
+ID: 8
+Preço Pedido: 450
+Preço Mínimo: 400
+
+
+------
+
+------
+ID: 
+9
+Consulta: 
+Email : anastacia@gmail.com
+Data : 2016/05/20 20:19:09
+Consultas: 1
+Imovel : Rua: Rua do Rosário
+Estado: Vende-se
+ID: 9
+Preço Pedido: 300
+Preço Mínimo: 290
+
+
+------
+Log: 0
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
